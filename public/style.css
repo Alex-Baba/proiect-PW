@@ -1,0 +1,109 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+body  {
+  background-image: url("images/crumpled-paper-background-free-photo.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+ 
+ 
+#b1 {
+  background-color: #D8F0DA;
+  position: relative;
+  opacity: 0.97;
+  background: transparent;
+  margin-left: auto; 
+  margin-right: auto;
+}
+#b2 {
+  background-color: #D8F0DA;
+  position: relative;
+  opacity: 0.97;
+  background: transparent;
+  margin-left: auto; 
+  margin-right: auto;
+}
+#b3 {
+  background-color: #D8F0DA;
+  position: relative;
+  opacity: 0.97;
+  background: transparent;
+  margin-left: auto; 
+  margin-right: auto;
+}
+#b4 {
+  background-color: #D8F0DA;
+  position: relative;
+  opacity: 0.97;
+  background: transparent;
+  margin-left: auto; 
+  margin-right: auto;
+}
+#b5 {
+  background-color: #D8F0DA;
+  position: relative;
+  opacity: 0.97;
+  background: transparent;
+  margin-left: auto; 
+  margin-right: auto;
+}
+#b6 {
+  background-color: #D8F0DA;
+  position: relative;
+  opacity: 0.97;
+  background: transparent;
+  margin-left: auto; 
+  margin-right: auto;
+}
+#b7 {
+  background-color: #D8F0DA;
+  position: relative;
+  opacity: 0.97;
+  background: transparent;
+  margin-left: auto; 
+  margin-right: auto;
+}
+#b8 {
+  background-color: #D8F0DA;
+  position: relative;
+  opacity: 0.97;
+  background: transparent;
+  margin-left: auto; 
+  margin-right: auto;
+}
+#b9 {
+  background-color: #D8F0DA;
+  position: relative;
+  opacity: 0.97;
+  background: transparent;
+  margin-left: auto; 
+  margin-right: auto;
+}
